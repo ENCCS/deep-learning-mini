@@ -51,7 +51,7 @@ All times are in CET (Central European Time). [Click here to get the starting ti
 | Time | Topic |
 | ------ | ------- |
 | 16:00 | [Monitor the training process](./3-monitor-the-model) + exercises|
-| 17:15 | [Further reading](https://enccs.se/deep-learning-intro) |
+| 17:15 | [Outlook and further reading](https://enccs.github.io/deep-learning-intro) |
 | 17:30 | END |
 
 ## Other related lessons
