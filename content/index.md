@@ -1,4 +1,6 @@
-# Introduction to Deep Learning
+# Introduction to Deep Learning (mini-course)
+
+**Basic Deep Learning Tasks from CPUs to GPUs**
 
 ```{include} ../index.md
 :start-after: Welcome
@@ -16,12 +18,10 @@ setup
 :maxdepth: 1
 :caption: The lesson
 
+0-gpu-programming
 1-introduction
 2-keras
 3-monitor-the-model
-4-advanced-layer-types
-5-transfer-learning
-6-outlook
 ```
 
 ```{toctree}
@@ -64,7 +64,6 @@ learner-profiles
 | 11:50 | Wrap-up |
 | 12:00 | END |
 
-
 ## Day 3
 
 | Time | Topic |
@@ -78,14 +77,16 @@ learner-profiles
 | 11:50 | Post-workshop survey |
 | 12:00 | END |
 
-
 ## Other related lessons
 
 ### Original carpentries lesson
 
-This lesson is an adaptation of <https://carpentries-lab.github.io/deep-learning-intro>, licensed CC-BY-4.0.
+This lesson is an adaptation of <https://carpentries-lab.github.io/deep-learning-intro>,
+and its Sphinx adaptation <https://enccs.github.io/deep-learning-intro>,
+both of which are licensed CC-BY-4.0
 
 ```{include} ../index.md
 :start-after: Other related lessons
 :end-before: We can help you out
 ```
+

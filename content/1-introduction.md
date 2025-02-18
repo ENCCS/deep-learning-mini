@@ -3,4 +3,11 @@
 ```{include} _patched/episodes/1-introduction.md
 :relative-docs: _patched/episodes
 :relative-images: _patched/episodes
+:end-before: Deep Learning Libraries
+```
+
+```{include} _patched/episodes/1-introduction.md
+:relative-docs: _patched/episodes
+:relative-images: _patched/episodes
+:start-after: <!--begin keypoints-->
 ```

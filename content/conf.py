@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Intro to Deep Learning"
+project = "Intro to Deep Learning (mini)"
 copyright = "2025, The contributors"
 author = "The contributors"
 github_user = "ENCCS"
@@ -47,7 +47,13 @@ extensions = [
 nb_execution_mode = "cache"
 
 # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html
-myst_enable_extensions = ["colon_fence", "dollarmath", "amsmath", "attrs_inline", "substitution"]
+myst_enable_extensions = [
+    "colon_fence",
+    "dollarmath",
+    "amsmath",
+    "attrs_inline",
+    "substitution",
+]
 myst_dmath_double_inline = True
 # myst_fence_as_directive = {"output"}
 
@@ -136,6 +142,7 @@ class InstructorDirective(_BaseCRDirective):
 class SpoilerDirective(_BaseCRDirective):
     extra_classes = ["important", "dropdown"]
 
+
 # class OutputDirective(_BaseCRDirective):
 #     title_text = "Output"
 #     extra_classes = ["dropdown"]
@@ -156,8 +163,15 @@ def setup(app):
 
 
 import os
-if os.environ.get('GITHUB_REF', '') == f'refs/heads/{github_version}':
+
+if os.environ.get("GITHUB_REF", "") == f"refs/heads/{github_version}":
     html_js_files = [
-        ('https://plausible.io/js/script.js', {"data-domain": "enccs.github.io/deep-learning-intro", "defer": "\
-defer"}),
+        (
+            "https://plausible.io/js/script.js",
+            {
+                "data-domain": "enccs.github.io/deep-learning-intro",
+                "defer": "\
+defer",
+            },
+        ),
     ]
