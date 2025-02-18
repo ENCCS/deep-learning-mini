@@ -33,49 +33,26 @@ instructor-notes
 learner-profiles
 ```
 
-# Schedule
+## Schedule
 
-## Day 1
+All times are in CET (Central European Time). [Click here to get the starting time in your timezone](https://arewemeetingyet.com/Berlin/2025-03-03/14:00/Basic%20Deep%20Learning%20Tasks%20from%20CPUs%20to%20GPUs,%20starts%20at#eyJ1cmwiOiJodHRwczovL2VuY2NzLmdpdGh1Yi5pby9kZWVwLWxlYXJuaW5nLW1pbmkvIn0=).
 
-| Time | Topic |
-| ------ | ------- |
-| 9:00 | Welcome and Icebreaker |
-| 9:10 | [Introduction to Deep Learning](./1-introduction) |
-| 9:50 | Coffee Break |
-| 10:00 | [Classification by a neural network using Keras](./2-keras) |
-| 10:50 | Coffee Break |
-| 11:00 | [Classification by a neural network using Keras](./2-keras) |
-| 11:50 | Wrap-up |
-| 12:00 | END |
-
-## Day 2
+### Session 1
 
 | Time | Topic |
 | ------ | ------- |
-| 9:00 | Welcome and recap |
-| 9:10 | [Monitor the training process](./3-monitor-the-model) |
-| 9:50 | Coffee Break |
-| 10:00 | [Monitor the training process](./3-monitor-the-model) |
-| 10:20 | [Advanced Layer Types](./4-advanced-layer-types) |
-| 10:50 | Coffee Break |
-| 11:00 | [Advanced Layer Types](./4-advanced-layer-types) |
-| 11:20 | [Transfer learning](./5-transfer-learning) |
-| 11:40 | [Outlook](./6-outlook) |
-| 11:50 | Wrap-up |
-| 12:00 | END |
+| 14:00 | [GPU programming](./0-gpu-programming.md) |
+| 14:20 | [Introduction to Deep Learning](./1-introduction.md) |
+| 14:50 | [Classification by a neural network using Keras](./2-keras) + exercises |
+| 15:45 | Coffee Break |
 
-## Day 3
+### Session 2
 
 | Time | Topic |
 | ------ | ------- |
-| 9:00 | Welcome and recap |
-| 9:05 | TBD |
-| 9:55 | Coffee Break |
-| 10:00 | TBD |
-| 10:50 | Coffee Break |
-| 11:00 | TBD |
-| 11:50 | Post-workshop survey |
-| 12:00 | END |
+| 16:00 | [Monitor the training process](./3-monitor-the-model) + exercises|
+| 17:15 | [Further reading](https://enccs.se/deep-learning-intro) |
+| 17:30 | END |
 
 ## Other related lessons
 
