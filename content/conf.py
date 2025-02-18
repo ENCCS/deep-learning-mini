@@ -169,7 +169,7 @@ if os.environ.get("GITHUB_REF", "") == f"refs/heads/{github_version}":
         (
             "https://plausible.io/js/script.js",
             {
-                "data-domain": "enccs.github.io/deep-learning-intro",
+                "data-domain": "enccs.github.io/deep-learning-mini",
                 "defer": "\
 defer",
             },
