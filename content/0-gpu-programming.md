@@ -4,7 +4,8 @@
 :::{objectives}
 
 - Understand GPU programming concepts.
-- Present an overview of GPU programming models and libraries
+- Present an overview of GPU programming models and libraries.
+- Introduce a few well-known deep learning libraries.
 :::
 
 ## Deep learning libraries
