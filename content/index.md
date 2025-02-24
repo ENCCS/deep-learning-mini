@@ -51,9 +51,9 @@ All times are in CET (Central European Time). [Click here to get the starting ti
 
 | Time | Topic | Instructor |
 | ------ | ------- | ------- |
-| 16:00 | [Monitor the training process (§1-6)](./3-monitor-the-model.md) | YW |
+| 16:00 | [Monitor the training process (§ 1-6)](./3-monitor-the-model.md) | YW |
 | 16:30 | Exercises (10 min) |  |
-| 16:40 | [Monitor the training process (§7-10)](./3-monitor-the-model.md#perform-a-prediction-classification) | AM |
+| 16:40 | [Monitor the training process (§ 7-10)](./3-monitor-the-model.md#perform-a-prediction-classification) | AM |
 | 17:10 | Exercises (10 min) |  |
 | 17:20 | [Outlook and further reading](https://enccs.github.io/deep-learning-intro) | AM |
 | 17:30 | END |
