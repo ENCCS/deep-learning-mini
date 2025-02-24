@@ -39,19 +39,23 @@ All times are in CET (Central European Time). [Click here to get the starting ti
 
 ### Session 1
 
-| Time | Topic |
-| ------ | ------- |
-| 14:00 | [GPU programming](./0-gpu-programming.md) |
-| 14:20 | [Introduction to Deep Learning](./1-introduction.md) |
-| 14:50 | [Classification by a neural network using Keras](./2-keras) + exercises |
-| 15:45 | Coffee Break |
+| Time | Topic | Instructor |
+| ------ | ------- | ------- |
+| 14:00 | [Introduction to Deep Learning](./1-introduction.md) | YW |
+| 14:15 | [Classification by a neural network using Keras (§ 1-6)](./2-keras.md) | AM |
+| 15:15 | Exercises (10 min) |  |
+| 15:25 | [Classification by a neural network using Keras (§ 7-10)](./2-keras.md#perform-a-prediction-classification) | YW |
+| 15:45 | Coffee Break (15 min) |  |
 
 ### Session 2
 
-| Time | Topic |
-| ------ | ------- |
-| 16:00 | [Monitor the training process](./3-monitor-the-model) + exercises|
-| 17:15 | [Outlook and further reading](https://enccs.github.io/deep-learning-intro) |
+| Time | Topic | Instructor |
+| ------ | ------- | ------- |
+| 16:00 | [Monitor the training process (§1-6)](./3-monitor-the-model.md) | YW |
+| 16:30 | Exercises (10 min) |  |
+| 16:40 | [Monitor the training process (§7-10)](./3-monitor-the-model.md#perform-a-prediction-classification) | AM |
+| 17:10 | Exercises (10 min) |  |
+| 17:20 | [Outlook and further reading](https://enccs.github.io/deep-learning-intro) | AM |
 | 17:30 | END |
 
 ## Other related lessons
