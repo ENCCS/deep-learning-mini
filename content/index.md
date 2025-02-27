@@ -64,7 +64,7 @@ All times are in CET (Central European Time). [Click here to get the starting ti
 | ------ | ------- | ------- |
 | 09:30 | [4. Advanced layer types](./4-advanced-layer-types.md) + Exercises | EP |
 | 10:50 | [Outlook and further reading](https://enccs.github.io/deep-learning-intro) | AM |
-| 17:30 | End of lesson | |
+| 11:00 | End of lesson | |
 
 ## Other related lessons
 
